@@ -1,9 +1,8 @@
 README
 
-In summary, I implemented a stack using two single linked list
+I implemented a stack using two single linked lists,
 one for the main stack where elements are added in a LIFO fashion and
-another single list that acts as a secondary stack to store and track the max
-values. 
+the secondary list to store and track the max value of the stack.
 
 I did a very simple Console app. as the UI for demo purposes, 
 and added unit tests to test the functionality.
@@ -76,8 +75,6 @@ Please select your choice
 
 End
 ---
-Maven has matured but sometimes running it for the first time can be 
-problematic, if you have an issue with what was mentioned here, please shoot me 
-an email to my address: rogelio.robles@gmail.com and I would answer asap.
+I'm using Maven to build and execute the application.
 
 Thank you!
