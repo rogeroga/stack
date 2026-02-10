@@ -1,5 +1,7 @@
 README
 
+To implement a stack that retrieves the maximum value in O(1) time
+
 I implemented a stack using two single linked lists,
 one for the main stack where elements are added in a LIFO fashion and
 the secondary list to store and track the max value of the stack.
